@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  color: #d9534f;
+}
+
+img {
+  width: auto;
+  height: 300px;
+}
+
+ ul {
+  display: inline-table;
+}
